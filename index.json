@@ -10,6 +10,7 @@
       "code": 1,
       "version": "1.0",
       "nsfw": false,
+      "iconUrl": "https://raw.githubusercontent.com/AdroitPath3174/toonstream-repo/refs/heads/main/icon/IMG_20260612_082849.jpg",
       "sources": [
         {
           "name": "ToonStream",
