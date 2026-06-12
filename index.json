@@ -1,0 +1,30 @@
+{
+  "name": "ToonStream Extension Repo",
+  "website": "https://github.com/AdroitPath3174/toonstream-repo",
+  "extensions": [
+    {
+      "name": "ToonStream",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.toonstream",
+      "apk": "src_en_toonstream",
+      "lang": "en",
+      "code": 1,
+      "version": "1.0",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "ToonStream",
+          "id": "toonstream",
+          "baseUrl": "https://toonstream.vip",
+          "lang": "en",
+          "nsfw": false,
+          "class": "eu.kanade.tachiyomi.animeextension.en.toonstream.ToonStream"
+        }
+      ],
+      "hasReadme": false,
+      "hasChangelog": false,
+      "apkUrl": "https://raw.githubusercontent.com/AdroitPath3174/toonstream-repo/main/apk/src_en_toonstream-release.apk",
+      "versionName": "1.0",
+      "signatureHash": ""
+    }
+  ]
+}
