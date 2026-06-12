@@ -5,7 +5,7 @@
     {
       "name": "ToonStream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.toonstream",
-      "apk": "src_en_toonstream",
+      "apk": "toonstream-release-unsigned",
       "lang": "en",
       "code": 1,
       "version": "1.0",
@@ -22,7 +22,7 @@
       ],
       "hasReadme": false,
       "hasChangelog": false,
-      "apkUrl": "https://raw.githubusercontent.com/AdroitPath3174/toonstream-repo/main/apk/src_en_toonstream-release.apk",
+      "apkUrl": "https://raw.githubusercontent.com/AdroitPath3174/toonstream-repo/main/apk/toonstream-release-unsigned.apk",
       "versionName": "1.0",
       "signatureHash": ""
     }
